@@ -21,11 +21,14 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 
 gem 'jquery-rails'
+gem 'jquery-ui-rails', '~> 5.0.5'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'devise'
+gem 'activeadmin', '~> 1.0.0.pre4'
+gem 'inherited_resources', '~> 1.7'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
